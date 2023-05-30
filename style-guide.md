@@ -11,18 +11,18 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Marine blue: hsl(213, 96%, 18%)
-- Purplish blue: hsl(243, 100%, 62%)
+- Marine blue: hsl(213, 96%, 18%)           button background/font primary1
+- Purplish blue: hsl(243, 100%, 62%)      checkbox
 - Pastel blue: hsl(228, 100%, 84%)
-- Light blue: hsl(206, 94%, 87%)
-- Strawberry red: hsl(354, 84%, 57%)
+- Light blue: hsl(206, 94%, 87%)        current step
+- Strawberry red: hsl(354, 84%, 57%)   advanced color
 
 ### Neutral
 
-- Cool gray: hsl(231, 11%, 63%)
-- Light gray: hsl(229, 24%, 87%)
-- Magnolia: hsl(217, 100%, 97%)
-- Alabaster: hsl(231, 100%, 99%)
+- Cool gray: hsl(231, 11%, 63%)     gray font
+- Light gray: hsl(229, 24%, 87%)    
+- Magnolia: hsl(217, 100%, 97%)     main background
+- Alabaster: hsl(231, 100%, 99%)    maybe white font
 - White: hsl(0, 0%, 100%)
 
 ## Typography
